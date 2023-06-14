@@ -4,4 +4,5 @@
 - The robot connects to a server that recieves a question and generates an answer
 - The server is made in python 3 while the code from the robot is in python 2.7
 - IDE used: Coregraphe
+- You need to change the API key, IP address and the port
 
